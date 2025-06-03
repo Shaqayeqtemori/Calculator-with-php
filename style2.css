@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+}
+input{
+    width: 90px;
+    height: 20px;
+    background-color: aquamarine;
+}
+select{
+    background-color: aqua;
+}
+button{
+    background-color: cornflowerblue;
+}
